@@ -1,0 +1,19 @@
+{
+  "users": {
+    "validUser": {
+      "login": "prashant.qa01",
+      "password": "Pass@12345"
+    },
+    "newUser": {
+      "login": "auto_user_01",
+      "password": "AutoPass@123"
+    }
+  },
+  "comments": {
+    "valid": "Great car!",
+    "blank": "",
+    "symbols": "@@@@",
+    "long": "Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet ",
+    "xss": "<script>alert('XSS')</script>"
+  }
+}

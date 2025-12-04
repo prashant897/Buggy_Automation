@@ -1,0 +1,58 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - navigation [ref=e4]:
+      - generic [ref=e5]:
+        - link "Buggy Rating" [ref=e6] [cursor=pointer]:
+          - /url: /
+        - generic [ref=e8]:
+          - generic [ref=e9]:
+            - textbox "Login" [ref=e10]
+            - textbox [ref=e11]
+          - button "Login" [ref=e12] [cursor=pointer]
+          - link "Register" [ref=e13] [cursor=pointer]:
+            - /url: /register
+    - generic [ref=e16]:
+      - heading "Buggy Cars Rating" [level=1] [ref=e18]:
+        - text: Buggy
+        - text: Cars
+        - text: Rating
+      - img [ref=e21]
+  - main [ref=e22]:
+    - main [ref=e23]:
+      - generic [ref=e25]:
+        - generic [ref=e27]:
+          - heading "Popular Make" [level=2] [ref=e28]
+          - link "Lamborghini" [ref=e29] [cursor=pointer]:
+            - /url: /make/ckl2phsabijs71623vk0
+            - img "Lamborghini" [ref=e30]
+          - heading "Lamborghini (18608 votes)" [level=3] [ref=e32]:
+            - text: Lamborghini
+            - text: (18608 votes)
+        - generic [ref=e34]:
+          - heading "Popular Model" [level=2] [ref=e35]
+          - link "Diablo" [ref=e36] [cursor=pointer]:
+            - /url: /model/ckl2phsabijs71623vk0|ckl2phsabijs71623vqg
+            - img "Diablo" [ref=e37]
+          - heading "Lamborghini Diablo (7417 votes)" [level=3] [ref=e39]:
+            - text: Lamborghini Diablo
+            - text: (7417 votes)
+        - generic [ref=e41]:
+          - heading "Overall Rating" [level=2] [ref=e42]
+          - link [ref=e43] [cursor=pointer]:
+            - /url: /overall
+            - img [ref=e44]
+          - heading "List of all registered models." [level=3] [ref=e46]
+    - separator [ref=e47]
+    - generic [ref=e49]:
+      - generic [ref=e50]:
+        - link "Facebook" [ref=e51] [cursor=pointer]:
+          - /url: https://www.facebook.com
+          - img [ref=e52]
+        - link "Twitter" [ref=e53] [cursor=pointer]:
+          - /url: https://www.twitter.com
+          - img [ref=e54]
+      - paragraph [ref=e55]: © 2016 Buggy Software, Inc.
+```
