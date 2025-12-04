@@ -16,8 +16,7 @@ It covers registration, login, voting, and commenting features.
 - ✔ Vote on Car Models  
 - ✔ Navigate to Popular Makes / Models  
 - ✔ Validations on Car Details  
-- ✔ Page Object Model Implementation  
-- ✔ HTML Reports, Videos, Screenshots, Traces  
+- ✔ Page Object Model Implementation   
 
 ---
 
