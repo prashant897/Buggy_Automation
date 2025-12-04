@@ -68,6 +68,4 @@ npx playwright test
 
 ---
 
-### ✔ THIS IS READY FOR DIRECT COPY → PASTE INTO README.md  
-If you want a **Manual Test Case Document**, **Bug Report**, or **Project Explanation for interviews**, just tell me — I’ll generate it.
 
